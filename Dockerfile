@@ -1,4 +1,4 @@
-# -------- NetworkNinjas n8n Free Host --------
+# -------- firewallguard n8n Free Host --------
 FROM node:18-alpine
 
 # Install n8n
